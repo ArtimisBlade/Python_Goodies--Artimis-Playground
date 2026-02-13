@@ -1,0 +1,6 @@
+print("=== DEPLOYMENT BANNER ===")
+print("Project: Aligned")
+print("Environment: Lab")
+print("Action: Apply baseline config")
+print("Status: READY")
+print("========================")
